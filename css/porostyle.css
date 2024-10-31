@@ -1,0 +1,109 @@
+#jcm_poros_container {	
+	margin: 0 0 0 0 !important;
+	padding: 0 0 0 0 !important;
+	max-width:none !important;
+	position: relative;
+}
+
+#jcm_poros_downnav_next {
+	position:absolute;
+	height:40px;
+	width:50px;
+	background-image:url(../assets/buttons/downnav.png);
+}
+
+#jcm_poros_downnav_next:hover {
+	background-image:url(../assets/buttons/downnavpressed.png);
+}
+
+#jcm_poros_forwardnav_next {
+	position:absolute;
+	height:50px;
+	width:40px;
+	background-image:url(../assets/buttons/forwardnav.png);
+}
+
+#jcm_poros_forwardnav_next:hover {
+	background-image:url(../assets/buttons/forwardnavpressed.png);
+}
+#jcm_poros_backnav_back {
+	position:absolute;
+	height:50px;
+	width:40px;
+	background-image:url(../assets/buttons/backnav.png);
+}
+
+#jcm_poros_backnav_back:hover {
+	background-image:url(../assets/buttons/backnavpressed.png);
+}
+
+#jcm_poros_slide_show a img, #jcm_poros_thumb_slide img {
+	display: block;
+	margin: 0 0 0 0 !important;
+	padding: 0 0 0 0 !important;
+	max-width:none !important;
+}
+
+
+#jcm_poros_slide_show, #jcm_poros_thumb_slide {	
+}
+
+#jcm_poros_slide_show {
+	overflow:hidden;
+}
+
+#jcm_poros_thumb_slide {
+	overflow: hidden;
+}
+
+#jcm_poros_slide_show a img{
+	position: absolute;
+}
+
+#jcm_poros_slide_caption h3 {	
+	position:absolute;
+	padding-left:10px !important;
+	padding-top:0px !important;
+	padding-bottom:0px !important;
+	margin: auto !important;
+	margin-top:-5px !important;
+	letter-spacing:1px !important;	
+	font-size:20px !important;
+	line-height:52px !important;
+	font-weight:bold;
+	overflow:hidden !important;
+	display:block;
+	background: none !important;
+	text-transform: none !important;
+}
+
+#jcm_poros_slide_caption p {	
+	position:absolute;
+	padding-top:0px !important;
+	padding-bottom:2px !important;	
+	line-height:110% !important;
+	font-size:14px !important;	
+	padding-right:10px !important;
+	padding-left:11px !important;
+	word-wrap:normal;
+	overflow:hidden;
+	background: none !important;
+}
+
+#jcm_poros_slide_caption {	
+	overflow:hidden;
+	position:absolute;
+  	margin:auto !important;
+	background-color: transparent;
+    background-image: url('../assets/images/caption_background.fw.png');
+	background-repeat: repeat-x !important;
+}
+	
+
+
+
+
+
+
+
+

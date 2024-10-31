@@ -1,0 +1,76 @@
+#poros_add_image_buttons {
+	position:relative;
+}
+.nailthumb-container {
+	width:150px;
+	height:150px;
+}
+#poros_admin_add_imageURL_text {
+	padding-top:10px;
+	margin-left:580px;
+}
+.poros_admin_add_imageURL {
+position:absolute;
+background-image:url(../assets/buttons/greenplus.png);
+width:28px;
+height:28px;
+margin-left:5px;
+
+}
+
+#jcm_poros_radio_link input.jcm_poros_link_class {
+	display:inline;
+	margin-left:0.2em;
+}
+th {
+	width: 150px !important;
+	background-color:#FCFCFC;	
+	border-right: 1px solid #c9c9c9;
+}
+
+td{
+	background-color:#FCFCFC;
+	
+}
+tr{
+	
+}
+
+form{
+	background-color:#EEEEEE;
+	padding:0 0 0 0;
+	margin:0 0 0 0;
+	width:900px;
+	border:1px solid #c9c9c9;
+	border-top:none;
+}
+h3{
+	margin-top: 0px !important;
+	padding-top: 7px; !important;
+	padding-left:7px;
+	color:#2786B2;
+	
+}
+
+
+
+.nav-tab {
+	background-color:#EEEEEE;	
+	color:#2786B2;
+}
+
+.nav-tab-active {
+	background-color:#EEEEEE;	
+	color:#2786B2;
+	border-bottom: 1px solid #EEEEEE;
+}
+
+a:hover.nav-tab-active  {
+	border-bottom: 1px solid #EEEEEE !important;
+	background: #EEEEEE;
+}
+
+.porosHR{
+	line-height:0% !important;
+	font-size:0px;
+}
